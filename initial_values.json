@@ -1,0 +1,34 @@
+[
+  {
+    "name": "phone call form",
+    "fields": {
+      "name": "text",
+      "surname": "text",
+      "phone": "phone"
+    }
+  },
+  {
+    "name": "user form",
+    "fields": {
+      "name": "text",
+      "email": "email",
+      "phone": "phone",
+      "city": "text"
+    }
+  },
+  {
+    "name": "credentials form",
+    "fields": {
+      "user": "text",
+      "email": "email",
+      "phone": "phone"
+    }
+  },
+  {
+    "name": "deadline form",
+    "fields": {
+      "employee": "text",
+      "deadline": "date"
+    }
+  }
+]
